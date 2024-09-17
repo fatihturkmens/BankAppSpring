@@ -25,8 +25,3 @@ Java ve Spring Boot kullanarak,hesap açma,para gönderme ,para çekme ve kullan
 ![image alt](https://github.com/fatihturkmens/BankAppSpring/blob/1377fbe27050e41887f08898e89b29d839cf8224/Hesaptan%20para%20%C3%A7ekme.png)
 
 
-
-
-Java ve Spring Boot kullanılarak ,Astronomi ile ilgili sorular ve cevapların olduğu ,bir Web Uygulamasının backend projesi.
-
-
